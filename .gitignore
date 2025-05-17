@@ -24,9 +24,9 @@ var/
 *.egg
 
 # Data
-01_raw_bin/
-02_parsed/
-03_occupancy_grid/
+#01_raw_bin/
+#02_parsed/
+#03_occupancy_grid/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
